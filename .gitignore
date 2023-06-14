@@ -1,0 +1,7 @@
+lttrain_output/
+ltvenvtrain/
+notes.md
+__pycache__/
+common/
+.idea/
+result.txt
